@@ -1,0 +1,1022 @@
+
+{"data1":[
+    {
+        "selector": "#productProperties\\[12\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "锦纶(尼龙）"
+        ],
+        "value": "锦纶(尼龙）",
+        "name": "Material"
+    },
+    {
+        "selector": "#productProperties\\[83\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "无"
+        ],
+        "value": "无",
+        "name": "Details"
+    },
+    {
+        "selector": "#productProperties\\[26\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "纯色"
+        ],
+        "value": "纯色",
+        "name": "Pattern"
+    },
+    {
+        "selector": "#productProperties\\[84\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "打底裤"
+        ],
+        "value": "打底裤",
+        "name": "Type"
+    },
+    {
+        "selector": "#productProperties\\[20\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "可机洗且不可干洗"
+        ],
+        "value": "可机洗且不可干洗",
+        "name": "OperationInstruction"
+    },
+    {
+        "selector": "#productProperties\\[1192\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "针织(含钩织、毛织面料)"
+        ],
+        "value": "针织(含钩织、毛织面料)",
+        "name": "WeavingMethod"
+    },
+    {
+        "selector": "#productProperties\\[6926\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "光面"
+        ],
+        "value": "光面",
+        "name": "FabricTexture1"
+    },
+    {
+        "selector": "#productProperties\\[99\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "中支撑力"
+        ],
+        "value": "中支撑力",
+        "name": "Support"
+    },
+    {
+        "selector": "#productProperties\\[94\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "无胸垫"
+        ],
+        "value": "无胸垫",
+        "name": "ChestPad"
+    },
+    {
+        "selector": "#productProperties\\[86\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "套头衫"
+        ],
+        "value": "套头衫",
+        "name": "PlacketType"
+    },
+    {
+        "selector": "#productProperties\\[1960\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "Brand"
+    },
+    {
+        "selector": "#productProperties\\[1306\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "2件"
+        ],
+        "value": "2件",
+        "name": "NumberOfProducts"
+    },
+    {
+        "selector": "#productProperties\\[6227\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "优雅专项"
+        ],
+        "value": "优雅专项",
+        "name": "Collection"
+    },
+    {
+        "selector": "#productProperties\\[19\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "优雅专项"
+        ],
+        "value": "优雅专项",
+        "name": "Style"
+    },
+    {
+        "selector": "#productProperties\\[2103\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "现货款"
+        ],
+        "value": "现货款",
+        "name": "Stylesource"
+    },
+    {
+        "selector": "#productProperties\\[6927\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "FabricTexture2"
+    },
+    {
+        "selector": "#productProperties\\[6928\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "LiningTexture"
+    }
+],
+"data2":
+[
+    {
+        "selector": "#productProperties\\[12\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "锦纶(尼龙）"
+        ],
+        "value": "锦纶(尼龙）",
+        "name": "Material"
+    },
+    {
+        "selector": "#productProperties\\[83\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "无"
+        ],
+        "value": "无",
+        "name": "Details"
+    },
+    {
+        "selector": "#productProperties\\[26\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "纯色"
+        ],
+        "value": "纯色",
+        "name": "Pattern"
+    },
+    {
+        "selector": "#productProperties\\[84\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "打底裤"
+        ],
+        "value": "打底裤",
+        "name": "Type"
+    },
+    {
+        "selector": "#productProperties\\[20\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "可机洗且不可干洗"
+        ],
+        "value": "可机洗且不可干洗",
+        "name": "OperationInstruction"
+    },
+    {
+        "selector": "#productProperties\\[1352\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "微弹"
+        ],
+        "value": "微弹",
+        "name": "FabricElasticity"
+    },
+    {
+        "selector": "#productProperties\\[1192\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "针织(含钩织、毛织面料)"
+        ],
+        "value": "针织(含钩织、毛织面料)",
+        "name": "WeavingMethod"
+    },
+    {
+        "selector": "#productProperties\\[6926\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "光面"
+        ],
+        "value": "光面",
+        "name": "FabricTexture1"
+    },
+    {
+        "selector": "#productProperties\\[99\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "中支撑力"
+        ],
+        "value": "中支撑力",
+        "name": "Support"
+    },
+    {
+        "selector": "#productProperties\\[94\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "无胸垫"
+        ],
+        "value": "无胸垫",
+        "name": "ChestPad"
+    },
+    {
+        "selector": "#productProperties\\[86\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "套头衫"
+        ],
+        "value": "套头衫",
+        "name": "PlacketType"
+    },
+    {
+        "selector": "#productProperties\\[1960\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "Brand"
+    },
+    {
+        "selector": "#productProperties\\[1306\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "2件"
+        ],
+        "value": "2件",
+        "name": "NumberOfProducts"
+    },
+    {
+        "selector": "#productProperties\\[6227\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "优雅专项"
+        ],
+        "value": "优雅专项",
+        "name": "Collection"
+    },
+    {
+        "selector": "#productProperties\\[19\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "优雅专项"
+        ],
+        "value": "优雅专项",
+        "name": "Style"
+    },
+    {
+        "selector": "#productProperties\\[2103\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "现货款"
+        ],
+        "value": "现货款",
+        "name": "Stylesource"
+    },
+    {
+        "selector": "#productProperties\\[6927\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "FabricTexture2"
+    },
+    {
+        "selector": "#productProperties\\[6928\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "LiningTexture"
+    }
+],
+"data3":
+[
+    {
+        "selector": "#productProperties\\[12\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "锦纶(尼龙）"
+        ],
+        "value": "锦纶(尼龙）",
+        "name": "Material"
+    },
+    {
+        "selector": "#productProperties\\[83\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "无"
+        ],
+        "value": "无",
+        "name": "Details"
+    },
+    {
+        "selector": "#productProperties\\[26\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "纯色"
+        ],
+        "value": "纯色",
+        "name": "Pattern"
+    },
+    {
+        "selector": "#productProperties\\[24\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "否"
+        ],
+        "value": "否",
+        "name": "Sheer"
+    },
+    {
+        "selector": "#productProperties\\[84\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "无缝"
+        ],
+        "value": "无缝",
+        "name": "Type"
+    },
+    {
+        "selector": "#productProperties\\[20\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "可机洗且不可干洗"
+        ],
+        "value": "可机洗且不可干洗",
+        "name": "OperationInstruction"
+    },
+    {
+        "selector": "#productProperties\\[19\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "优雅专项"
+        ],
+        "value": "优雅专项",
+        "name": "Style"
+    },
+    {
+        "selector": "#productProperties\\[1192\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "针织(含钩织、毛织面料)"
+        ],
+        "value": "针织(含钩织、毛织面料)",
+        "name": "WeavingMethod"
+    },
+    {
+        "selector": "#productProperties\\[6926\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "光面"
+        ],
+        "value": "光面",
+        "name": "FabricTexture1"
+    },
+    {
+        "selector": "#productProperties\\[98\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "中腰"
+        ],
+        "value": "中腰",
+        "name": "Pantywaistline"
+    },
+    {
+        "selector": "#productProperties\\[1960\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "Brand"
+    },
+    {
+        "selector": "#productProperties\\[6227\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "优雅专项"
+        ],
+        "value": "优雅专项",
+        "name": "Collection"
+    },
+    {
+        "selector": "#productProperties\\[2103\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "现货款"
+        ],
+        "value": "现货款",
+        "name": "Stylesource"
+    },
+    {
+        "selector": "#productProperties\\[6927\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "FabricTexture2"
+    },
+    {
+        "selector": "#productProperties\\[6928\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "LiningTexture"
+    }
+],
+"data4":
+[
+    {
+        "selector": "#productProperties\\[12\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "锦纶(尼龙）"
+        ],
+        "value": "锦纶(尼龙）",
+        "name": "Material"
+    },
+    {
+        "selector": "#productProperties\\[94\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "无胸垫"
+        ],
+        "value": "无胸垫",
+        "name": "ChestPad"
+    },
+    {
+        "selector": "#productProperties\\[2420\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "无钢圈"
+        ],
+        "value": "无钢圈",
+        "name": "Wires"
+    },
+    {
+        "selector": "#productProperties\\[83\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "无"
+        ],
+        "value": "无",
+        "name": "Details"
+    },
+    {
+        "selector": "#productProperties\\[26\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "纯色"
+        ],
+        "value": "纯色",
+        "name": "Pattern"
+    },
+    {
+        "selector": "#productProperties\\[115\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "成人"
+        ],
+        "value": "成人",
+        "name": "ApplicablePeople"
+    },
+    {
+        "selector": "#productProperties\\[24\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "否"
+        ],
+        "value": "否",
+        "name": "Sheer"
+    },
+    {
+        "selector": "#productProperties\\[84\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            ""
+        ],
+        "value": "",
+        "name": "Type"
+    },
+    {
+        "selector": "#productProperties\\[20\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "可机洗且不可干洗"
+        ],
+        "value": "可机洗且不可干洗",
+        "name": "OperationInstruction"
+    },
+    {
+        "selector": "#productProperties\\[19\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "优雅专项"
+        ],
+        "value": "优雅专项",
+        "name": "Style"
+    },
+    {
+        "selector": "#productProperties\\[1192\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "针织(含钩织、毛织面料)"
+        ],
+        "value": "针织(含钩织、毛织面料)",
+        "name": "WeavingMethod"
+    },
+    {
+        "selector": "#productProperties\\[6926\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "光面"
+        ],
+        "value": "光面",
+        "name": "FabricTexture1"
+    },
+    {
+        "selector": "#productProperties\\[99\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "中支撑力"
+        ],
+        "value": "中支撑力",
+        "name": "Support"
+    },
+    {
+        "selector": "#productProperties\\[1960\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "Brand"
+    },
+    {
+        "selector": "#productProperties\\[6227\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "优雅专项"
+        ],
+        "value": "优雅专项",
+        "name": "Collection"
+    },
+    {
+        "selector": "#productProperties\\[2103\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "现货款"
+        ],
+        "value": "现货款",
+        "name": "Stylesource"
+    },
+    {
+        "selector": "#productProperties\\[6927\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "FabricTexture2"
+    },
+    {
+        "selector": "#productProperties\\[6928\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "LiningTexture"
+    }
+]
+,"data5":
+[
+    {
+        "selector": "#productProperties\\[12\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "锦纶(尼龙）"
+        ],
+        "value": "锦纶(尼龙）",
+        "name": "Material"
+    },
+    {
+        "selector": "#productProperties\\[83\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "无"
+        ],
+        "value": "无",
+        "name": "Details"
+    },
+    {
+        "selector": "#productProperties\\[26\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "纯色"
+        ],
+        "value": "纯色",
+        "name": "Pattern"
+    },
+    {
+        "selector": "#productProperties\\[115\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "成人"
+        ],
+        "value": "成人",
+        "name": "ApplicablePeople"
+    },
+    {
+        "selector": "#productProperties\\[24\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "否"
+        ],
+        "value": "否",
+        "name": "Sheer"
+    },
+    {
+        "selector": "#productProperties\\[84\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "女士吊带、背心"
+        ],
+        "value": "女士吊带、背心",
+        "name": "Type"
+    },
+    {
+        "selector": "#productProperties\\[20\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "可机洗且不可干洗"
+        ],
+        "value": "可机洗且不可干洗",
+        "name": "OperationInstruction"
+    },
+    {
+        "selector": "#productProperties\\[19\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "优雅专项"
+        ],
+        "value": "优雅专项",
+        "name": "Style"
+    },
+    {
+        "selector": "#productProperties\\[1192\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "针织(含钩织、毛织面料)"
+        ],
+        "value": "针织(含钩织、毛织面料)",
+        "name": "WeavingMethod"
+    },
+    {
+        "selector": "#productProperties\\[6926\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "光面"
+        ],
+        "value": "光面",
+        "name": "FabricTexture1"
+    },
+    {
+        "selector": "#productProperties\\[6928\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "无里料/无内衬"
+        ],
+        "value": "无里料/无内衬",
+        "name": "LiningTexture"
+    },
+    {
+        "selector": "#productProperties\\[94\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "否"
+        ],
+        "value": "否",
+        "name": "ChestPad"
+    },
+    {
+        "selector": "#productProperties\\[1960\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "Brand"
+    },
+    {
+        "selector": "#productProperties\\[6227\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "优雅专项"
+        ],
+        "value": "优雅专项",
+        "name": "Collection"
+    },
+    {
+        "selector": "#productProperties\\[2103\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "现货款"
+        ],
+        "value": "现货款",
+        "name": "Stylesource"
+    },
+    {
+        "selector": "#productProperties\\[6927\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "FabricTexture2"
+    },
+    {
+        "selector": "#productProperties\\[29\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "无袖"
+        ],
+        "value": "无袖",
+        "name": "SleeveLength"
+    }
+]
+,"data6":
+[
+    {
+        "selector": "#productProperties\\[12\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "锦纶(尼龙）"
+        ],
+        "value": "锦纶(尼龙）",
+        "name": "Material"
+    },
+    {
+        "selector": "#productProperties\\[83\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "无"
+        ],
+        "value": "无",
+        "name": "Details"
+    },
+    {
+        "selector": "#productProperties\\[26\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "纯色"
+        ],
+        "value": "纯色",
+        "name": "Pattern"
+    },
+    {
+        "selector": "#productProperties\\[84\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "连体衣"
+        ],
+        "value": "连体衣",
+        "name": "Type"
+    },
+    {
+        "selector": "#productProperties\\[20\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "可机洗且不可干洗"
+        ],
+        "value": "可机洗且不可干洗",
+        "name": "OperationInstruction"
+    },
+    {
+        "selector": "#productProperties\\[1192\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "针织(含钩织、毛织面料)"
+        ],
+        "value": "针织(含钩织、毛织面料)",
+        "name": "WeavingMethod"
+    },
+    {
+        "selector": "#productProperties\\[6926\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "光面"
+        ],
+        "value": "光面",
+        "name": "FabricTexture1"
+    },
+    {
+        "selector": "#productProperties\\[99\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "中支撑力"
+        ],
+        "value": "中支撑力",
+        "name": "Support"
+    },
+    {
+        "selector": "#productProperties\\[94\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "无胸垫"
+        ],
+        "value": "无胸垫",
+        "name": "ChestPad"
+    },
+    {
+        "selector": "#productProperties\\[86\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "套头衫"
+        ],
+        "value": "套头衫",
+        "name": "PlacketType"
+    },
+    {
+        "selector": "#productProperties\\[1960\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "Brand"
+    },
+    {
+        "selector": "#productProperties\\[1306\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "2件"
+        ],
+        "value": "2件",
+        "name": "NumberOfProducts"
+    },
+    {
+        "selector": "#productProperties\\[6227\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "优雅专项"
+        ],
+        "value": "优雅专项",
+        "name": "Collection"
+    },
+    {
+        "selector": "#productProperties\\[19\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "优雅专项"
+        ],
+        "value": "优雅专项",
+        "name": "Style"
+    },
+    {
+        "selector": "#productProperties\\[2103\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "现货款"
+        ],
+        "value": "现货款",
+        "name": "Stylesource"
+    },
+    {
+        "selector": "#productProperties\\[6927\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "FabricTexture2"
+    },
+    {
+        "selector": "#productProperties\\[6928\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "LiningTexture"
+    }
+]
+,"data7":
+[
+    {
+        "selector": "#productProperties\\[12\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "锦纶(尼龙）"
+        ],
+        "value": "锦纶(尼龙）",
+        "name": "Material"
+    },
+    {
+        "selector": "#productProperties\\[83\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "无"
+        ],
+        "value": "无",
+        "name": "Details"
+    },
+    {
+        "selector": "#productProperties\\[26\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "纯色"
+        ],
+        "value": "纯色",
+        "name": "Pattern"
+    },
+    {
+        "selector": "#productProperties\\[115\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "成人"
+        ],
+        "value": "成人",
+        "name": "ApplicablePeople"
+    },
+    {
+        "selector": "#productProperties\\[24\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "否"
+        ],
+        "value": "否",
+        "name": "Sheer"
+    },
+    {
+        "selector": "#productProperties\\[84\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "套装"
+        ],
+        "value": "套装",
+        "name": "Type"
+    },
+    {
+        "selector": "#productProperties\\[20\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "可机洗且不可干洗"
+        ],
+        "value": "可机洗且不可干洗",
+        "name": "OperationInstruction"
+    },
+    {
+        "selector": "#productProperties\\[19\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "优雅专项"
+        ],
+        "value": "优雅专项",
+        "name": "Style"
+    },
+    {
+        "selector": "#productProperties\\[1192\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "针织(含钩织、毛织面料)"
+        ],
+        "value": "针织(含钩织、毛织面料)",
+        "name": "WeavingMethod"
+    },
+    {
+        "selector": "#productProperties\\[6926\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "光面"
+        ],
+        "value": "光面",
+        "name": "FabricTexture1"
+    },
+    {
+        "selector": "#productProperties\\[99\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "中支撑力"
+        ],
+        "value": "中支撑力",
+        "name": "Support"
+    },
+    {
+        "selector": "#productProperties\\[74\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "否"
+        ],
+        "value": "否",
+        "name": "Belt"
+    },
+    {
+        "selector": "#productProperties\\[94\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "否"
+        ],
+        "value": "否",
+        "name": "ChestPad"
+    },
+    {
+        "selector": "#productProperties\\[75\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "女"
+        ],
+        "value": "女",
+        "name": "Gender"
+    },
+    {
+        "selector": "#productProperties\\[98\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "中腰"
+        ],
+        "value": "中腰",
+        "name": "Pantywaistline"
+    },
+    {
+        "selector": "#productProperties\\[97\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "三角内裤"
+        ],
+        "value": "三角内裤",
+        "name": "PantyType"
+    },
+    {
+        "selector": "#productProperties\\[93\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "FunctionalType"
+    },
+    {
+        "selector": "#productProperties\\[100\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "CompositionAndQuantityOfCasualSuit"
+    },
+    {
+        "selector": "#productProperties\\[1960\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "Brand"
+    },
+    {
+        "selector": "#productProperties\\[6227\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "优雅专项"
+        ],
+        "value": "优雅专项",
+        "name": "Collection"
+    },
+    {
+        "selector": "#productProperties\\[2103\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "现货款"
+        ],
+        "value": "现货款",
+        "name": "Stylesource"
+    },
+    {
+        "selector": "#productProperties\\[6927\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "FabricTexture2"
+    },
+    {
+        "selector": "#productProperties\\[6928\\] .IPT_inputWrapper_5-117-0 input[data-testid=\"beast-core-select-htmlInput\"]",
+        "textOptions": [
+            "请选择"
+        ],
+        "value": "请选择",
+        "name": "LiningTexture"
+    }
+]
+}

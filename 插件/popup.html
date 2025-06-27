@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+
+        .dropdown-panel {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            min-width: 280px;
+            max-width: 320px;
+        }
+
+        .dropdown-item {
+          background: rgba(115, 113, 113, 0.1);
+            display: flex;
+            align-items: center;
+            padding: 15px 10px;
+            color: rgb(66, 65, 65);
+            font-size: 18px;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            border-radius: 8px;
+            margin-bottom: 8px;
+        }
+
+        .dropdown-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .dropdown-item:hover {
+            background: rgba(255, 255, 255, 0.1);
+            transform: translateX(5px);
+        }
+        .dropdown-item {
+            opacity: 0;
+            transform: translateY(20px);
+            animation: slideIn 0.6s ease forwards;
+        }
+        .dropdown-button{
+          border: 0;
+        }
+
+        .dropdown-panel {
+            opacity: 0;
+            transform: scale(0.9) translateY(-20px);
+            animation: panelIn 0.5s ease forwards;
+        }
+    @keyframes slideIn {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes panelIn {
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+</style>
+</head>
+<body>
+    <div class="dropdown-panel" id="dropdownPanel">
+          <select id="sizeSelect" class="dropdown-item"><option value="NULL">请选择</option>
+          <option value="data1" >调整型内裤</option>
+        <option value="data2">塑腿短裤</option>
+        <option value="data3">普通内裤</option>
+        <option value="data4">日常文胸</option>
+        <option value="data5">女士吊带、背心</option>
+        <option value="data6">连体衣</option>
+        <option value="data7">文胸套装</option></select>
+        <button id="fillBtn" class="dropdown-item dropdown-button">自动填充表单</button>
+    </div>
+    <script src="popup.js"></script>
+    
+</body>
+</html>

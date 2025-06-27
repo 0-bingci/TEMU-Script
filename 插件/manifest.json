@@ -1,0 +1,19 @@
+
+{
+  "web_accessible_resources": [{
+    "resources": ["data.json"],
+    "matches": ["<all_urls>"]
+  }],
+  "manifest_version": 3,
+  "name": "材料自动填充",
+  "version": "1.0",
+  "content_scripts": [{
+    "matches": ["https://seller.kuajingmaihuo.com/*"],
+    "js": ["content.js"],
+    "run_at": "document_end"
+  }],
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
